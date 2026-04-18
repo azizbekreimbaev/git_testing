@@ -56,3 +56,5 @@
 // newAcc.balanceInfo()
 
 // Account.tellMeTime();
+
+// // Account.tellAboutClass();
